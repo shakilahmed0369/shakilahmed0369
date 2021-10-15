@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vue** 
 - 👨‍💻 All of my projects are available at
-<a href="shakilahmed0369.netlify.app" target="blank">shakilahmed0369</a>
+<a href="https://shakilahmed0369.netlify.app/" target="blank">shakilahmed0369.netlify.app</a>
 - 💬 Ask me about
 **laravel, php, vue** 
 - 📫 How to reach me **shakilahmed0369@gmail.com**
