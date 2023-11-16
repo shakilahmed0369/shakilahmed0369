@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakil ahmed</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **vue** 
+- 🌱 I’m currently learning **Dart** 
 - 👨‍💻 All of my projects are available at
 <a href="https://shakilahmed0369.netlify.app/" target="blank">shakilahmed0369.netlify.app</a>
 - 💬 Ask me about
