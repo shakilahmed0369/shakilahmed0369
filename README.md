@@ -32,24 +32,24 @@
 </div>
 
 ---
-
-## 🌍 **Connect With Me**
+  ## 🌍 **Connect With Me**
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<a href="shakilahmeed.com" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-6a0dad?style=for-the-badge&logo=link&logoColor=white" height="35">
-</a>
+  <!-- Portfolio -->
+  <a href="https://shakilahmeed.com" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-6a0dad?style=for-the-badge&logo=link&logoColor=white" height="35">
+  </a>
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/shakilahmeed" target="_blank">
+  <a href="https://www.linkedin.com/in/shakilahmeed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
   <!-- X (Twitter) -->
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35">
   </a>
   <!-- Gmail -->
-  <a href="mailto:sakilhossain01969.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white" height="35">
+  <a href="mailto:sakilhossain01969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
 </div>
 
