@@ -4,8 +4,6 @@
 
  ⚡️ A passionate backend Ninja 🥷 from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.
 
----
-
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
@@ -29,8 +27,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=35>
 </div>
 
----
-  ## 🌍 **Connect With Me**
+## 🌍 **Connect With Me**
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <!-- Portfolio -->
