@@ -1,10 +1,10 @@
-# 🌟 Hi! 👋 I'm Shakil Ahmed
+# Hi! 👋 I'm Shakil Ahmed
 
 🚀 **Full Stack Developer | Open-Source Enthusiast | Digital Creator | Instructor**  
 
 ---
 
- ### ⚡️ A passionate backend Ninja from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.
+ *⚡️ A passionate backend Ninja 🥷 from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.*
 
 ---
 
