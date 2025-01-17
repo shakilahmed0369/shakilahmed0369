@@ -1,230 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shakil ahmed</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+# 🌟 Hi! 👋 I'm Shakil Ahmed
 
-- 🌱 I’m currently learning **Dart** 
-- 👨‍💻 All of my projects are available at
-<a href="https://shakilahmed0369.netlify.app/" target="blank">shakilahmed0369.netlify.app</a>
-- 💬 Ask me about
-**laravel, php, vue** 
-- 📫 How to reach me **shakilahmed0369@gmail.com**
+🚀 **Full Stack Developer | Open-Source Enthusiast | Digital Creator | Instructor**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/shakilahmed0369" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="shakilahmed0369"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/shakilahmed0369" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="shakilahmed0369"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/shakilahmed0369" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="shakilahmed0369"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/shakilahmed0369" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="shakilahmed0369"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/ShakilAhmed#7952" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="ShakilAhmed#7952"
-      height="30"
-      width="40"
-  /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://laravel.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
+ #### ⚡️ A passionate backend Ninja from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.
 
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
-  <a href="https://www.sketch.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-      alt="sketch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+## 🛠️ **Tech Stack**
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shakilahmed0369&show_icons=true&locale=en"
-    alt="shakilahmed0369"
-  />
-</p>
+### **Languages & Frameworks**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=35>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height=35>
+</div>
+
+### **Tools & Platforms**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height=35>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height=35>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height=35>
+</div>
+
+---
+
+## 🌍 **Connect With Me**
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<a href="shakilahmeed.com" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-6a0dad?style=for-the-badge&logo=link&logoColor=white" height="35">
+</a>
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/shakilahmeed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=&logoColor=white" height="35">
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:sakilhossain01969.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white" height="35">
+  </a>
+</div>
+
+---
+
+<br>
+
+## 📈 **GitHub Stats**
+<a href="https://git.io/streak-stats" style="width: 100%;" ><img style="width: 100%;"  src="https://github-readme-streak-stats.herokuapp.com?user=shakilahmed0369&theme=radical" alt="GitHub Streak" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilahmed0369&theme=radical" alt="Profile Summary Graph" style="width: 100%;" />
+
+---
+
+## 👾 **Fun Fact**
+💡 _I build tools for developers and spend most of my time making the web a better place!_
+
+---
+
+💻 Crafted with 💖 and lots of coffee ☕ by **shakil ahmed**.
