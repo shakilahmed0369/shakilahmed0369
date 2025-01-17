@@ -4,7 +4,7 @@
 
 ---
 
- #### ⚡️ A passionate backend Ninja from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.
+ ### ⚡️ A passionate backend Ninja from Bangladesh, I focus on building scalable and impactful web applications. When I’m not coding, you’ll find me exploring new tech, contributing to open-source, teaching, or brewing the perfect cup of coffee to fuel my creativity.
 
 ---
 
@@ -54,8 +54,6 @@
 </div>
 
 ---
-
-<br>
 
 ## 📈 **GitHub Stats**
 <a href="https://git.io/streak-stats" style="width: 100%;" ><img style="width: 100%;"  src="https://github-readme-streak-stats.herokuapp.com?user=shakilahmed0369&theme=radical" alt="GitHub Streak" /></a>
