@@ -31,7 +31,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <!-- Portfolio -->
-  <a href="https://shakilahmeed.com" target="_blank">
+  <a href="https://shakilahmed.dev" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-6a0dad?style=for-the-badge&logo=link&logoColor=white" height="35">
   </a>
   <!-- LinkedIn -->
